@@ -36,6 +36,7 @@
     "@vanilla-extract/esbuild-plugin": "^2.3.5",
     "@vanilla-extract/vite-plugin": "^4.0.15",
     "eslint-config-custom": "*",
+    "eslint-plugin-vitest": "^0.5.4",
     "jsdom": "^25.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
