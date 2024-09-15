@@ -1,6 +1,6 @@
 {
   "name": "@sopt-makers/icons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "sopt-makers의 frontend repository에 사용되는 icons를 제공해요.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/sopt-makers/makers-frontend#readme",
   "devDependencies": {
     "@svgr/cli": "^8.1.0",
+    "@types/react": "^18.3.5",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   },
